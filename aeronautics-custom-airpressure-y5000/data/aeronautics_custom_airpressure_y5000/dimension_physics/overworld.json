@@ -1,0 +1,146 @@
+{
+  "dimension": "minecraft:overworld",
+  "priority": 2000,
+  "pressure_function": [
+    {
+      "altitude": -64,
+      "value": 1.089942,
+      "slope": -0.000739
+    },
+    {
+      "altitude": 63,
+      "value": 1.0,
+      "slope": -0.000678
+    },
+    {
+      "altitude": 263,
+      "value": 0.873167,
+      "slope": -0.000592
+    },
+    {
+      "altitude": 463,
+      "value": 0.76242,
+      "slope": -0.000517
+    },
+    {
+      "altitude": 663,
+      "value": 0.66572,
+      "slope": -0.000451
+    },
+    {
+      "altitude": 863,
+      "value": 0.581284,
+      "slope": -0.000394
+    },
+    {
+      "altitude": 1063,
+      "value": 0.507558,
+      "slope": -0.000344
+    },
+    {
+      "altitude": 1263,
+      "value": 0.443183,
+      "slope": -0.000301
+    },
+    {
+      "altitude": 1463,
+      "value": 0.386972,
+      "slope": -0.000262
+    },
+    {
+      "altitude": 1663,
+      "value": 0.337891,
+      "slope": -0.000229
+    },
+    {
+      "altitude": 1863,
+      "value": 0.295035,
+      "slope": -0.0002
+    },
+    {
+      "altitude": 2063,
+      "value": 0.257615,
+      "slope": -0.000175
+    },
+    {
+      "altitude": 2263,
+      "value": 0.224941,
+      "slope": -0.000153
+    },
+    {
+      "altitude": 2463,
+      "value": 0.196411,
+      "slope": -0.000133
+    },
+    {
+      "altitude": 2663,
+      "value": 0.171499,
+      "slope": -0.000116
+    },
+    {
+      "altitude": 2863,
+      "value": 0.149747,
+      "slope": -0.000102
+    },
+    {
+      "altitude": 3063,
+      "value": 0.130754,
+      "slope": -8.9e-05
+    },
+    {
+      "altitude": 3263,
+      "value": 0.11417,
+      "slope": -7.7e-05
+    },
+    {
+      "altitude": 3463,
+      "value": 0.09969,
+      "slope": -6.8e-05
+    },
+    {
+      "altitude": 3663,
+      "value": 0.087046,
+      "slope": -5.9e-05
+    },
+    {
+      "altitude": 3863,
+      "value": 0.076006,
+      "slope": -5.2e-05
+    },
+    {
+      "altitude": 4063,
+      "value": 0.066365,
+      "slope": -4.5e-05
+    },
+    {
+      "altitude": 4263,
+      "value": 0.057948,
+      "slope": -3.9e-05
+    },
+    {
+      "altitude": 4463,
+      "value": 0.050598,
+      "slope": -3.4e-05
+    },
+    {
+      "altitude": 4663,
+      "value": 0.044181,
+      "slope": -3e-05
+    },
+    {
+      "altitude": 4863,
+      "value": 0.038577,
+      "slope": -2.6e-05
+    },
+    {
+      "altitude": 4960.0,
+      "value": 0.036121,
+      "slope": -2.4e-05
+    },
+    {
+      "altitude": 5000.0,
+      "value": 0.0,
+      "slope": -0.001806
+    }
+  ]
+}

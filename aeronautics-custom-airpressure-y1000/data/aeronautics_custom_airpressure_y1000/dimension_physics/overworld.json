@@ -1,0 +1,46 @@
+{
+  "dimension": "minecraft:overworld",
+  "priority": 2000,
+  "pressure_function": [
+    {
+      "altitude": -50.48,
+      "value": 1.5,
+      "slope": -0.00536
+    },
+    {
+      "altitude": 63,
+      "value": 1.0,
+      "slope": -0.003573
+    },
+    {
+      "altitude": 263,
+      "value": 0.489377,
+      "slope": -0.001749
+    },
+    {
+      "altitude": 463,
+      "value": 0.23949,
+      "slope": -0.000856
+    },
+    {
+      "altitude": 663,
+      "value": 0.117201,
+      "slope": -0.000419
+    },
+    {
+      "altitude": 863,
+      "value": 0.057356,
+      "slope": -0.000205
+    },
+    {
+      "altitude": 960.0,
+      "value": 0.040556,
+      "slope": -0.000145
+    },
+    {
+      "altitude": 1000.0,
+      "value": 0.0,
+      "slope": -0.002028
+    }
+  ]
+}

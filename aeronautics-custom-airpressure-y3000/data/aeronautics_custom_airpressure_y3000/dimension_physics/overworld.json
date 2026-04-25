@@ -1,0 +1,96 @@
+{
+  "dimension": "minecraft:overworld",
+  "priority": 2000,
+  "pressure_function": [
+    {
+      "altitude": -64,
+      "value": 1.155776,
+      "slope": -0.001318
+    },
+    {
+      "altitude": 63,
+      "value": 1.0,
+      "slope": -0.00114
+    },
+    {
+      "altitude": 263,
+      "value": 0.796134,
+      "slope": -0.000908
+    },
+    {
+      "altitude": 463,
+      "value": 0.633829,
+      "slope": -0.000723
+    },
+    {
+      "altitude": 663,
+      "value": 0.504613,
+      "slope": -0.000575
+    },
+    {
+      "altitude": 863,
+      "value": 0.40174,
+      "slope": -0.000458
+    },
+    {
+      "altitude": 1063,
+      "value": 0.319839,
+      "slope": -0.000365
+    },
+    {
+      "altitude": 1263,
+      "value": 0.254634,
+      "slope": -0.00029
+    },
+    {
+      "altitude": 1463,
+      "value": 0.202723,
+      "slope": -0.000231
+    },
+    {
+      "altitude": 1663,
+      "value": 0.161395,
+      "slope": -0.000184
+    },
+    {
+      "altitude": 1863,
+      "value": 0.128492,
+      "slope": -0.000146
+    },
+    {
+      "altitude": 2063,
+      "value": 0.102297,
+      "slope": -0.000117
+    },
+    {
+      "altitude": 2263,
+      "value": 0.081442,
+      "slope": -9.3e-05
+    },
+    {
+      "altitude": 2463,
+      "value": 0.064839,
+      "slope": -7.4e-05
+    },
+    {
+      "altitude": 2663,
+      "value": 0.05162,
+      "slope": -5.9e-05
+    },
+    {
+      "altitude": 2863,
+      "value": 0.041097,
+      "slope": -4.7e-05
+    },
+    {
+      "altitude": 2960.0,
+      "value": 0.036795,
+      "slope": -4.2e-05
+    },
+    {
+      "altitude": 3000.0,
+      "value": 0.0,
+      "slope": -0.00184
+    }
+  ]
+}

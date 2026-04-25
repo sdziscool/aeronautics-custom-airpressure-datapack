@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Air pressure curve scaled so y=5000 feels like vanilla y=900 (~3.5% pressure / near-stratosphere). decay_rate=-0.000678"
+  }
+}
